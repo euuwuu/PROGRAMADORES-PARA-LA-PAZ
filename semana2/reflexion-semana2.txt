@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 La terminal es una herramienta fundamental para los desarrolladores porque permite trabajar de forma rápida y eficiente con los archivos de un proyecto. 
 Usarla evita depender siempre de interfaces gráficas y ayuda a automatizar tareas repetitivas. 
 Además, muchos entornos de desarrollo y servidores funcionan principalmente mediante comandos. 
@@ -6,3 +7,13 @@ También permite ejecutar herramientas como Git para controlar versiones.
 La terminal ayuda a entender mejor cómo funciona el sistema operativo. 
 Es una habilidad básica que mejora la productividad del desarrollador. 
 Por eso es importante practicar su uso desde el inicio del aprendizaje.
+=======
+La terminal es una herramienta fundamental para los desarrolladores porque permite trabajar de forma rápida y eficiente con los archivos de un proyecto
+Usarla evita depender siempre de interfaces gráficas y ayuda a automatizar tareas repetitivas
+Además, muchos entornos de desarrollo y servidores funcionan principalmente mediante comandos
+Saber navegar entre carpetas facilita la organización del código y el manejo de proyectos grandes
+También permite ejecutar herramientas como Git para controlar versiones
+La terminal ayuda a entender mejor cómo funciona el sistema operativo
+Es una habilidad básica que mejora la productividad del desarrollador
+Por eso es importante practicar su uso desde el inicio del aprendizaje
+>>>>>>> 1973dbac532337be0674552be1cf556c8b88cdb8
