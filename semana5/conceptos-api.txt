@@ -1,0 +1,5 @@
+La ruta POST /reporte permite enviar información al servidor.
+
+Podría servir en una comunidad para enviar reportes de problemas, alertas o solicitudes.
+
+Esto ayuda a organizar la información y mejorar la comunicación entre los usuarios.
