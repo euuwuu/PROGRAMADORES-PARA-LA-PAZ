@@ -1,0 +1,4 @@
+Considero que es importante que las plataformas tecnológicas funcionen de manera estable y segura porque muchas personas dependen de ellas para acceder a información y servicios. 
+Un servidor bien configurado protege los datos de los usuarios y reduce el riesgo de fallos. 
+Además, permite que la plataforma esté disponible cuando se necesite. El monitoreo y los registros ayudan a detectar problemas a tiempo. 
+Todo esto genera confianza en la comunidad y mejora la experiencia de quienes utilizan la plataforma.
