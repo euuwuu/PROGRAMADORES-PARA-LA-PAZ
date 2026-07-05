@@ -1,0 +1,7 @@
+Las dos primeras tareas que realizaría serían registrar una incidencia y enviar una alerta al coordinador mediante Telegram, porque son funciones principales para iniciar el proceso de seguimiento.
+
+Una tarea se considera terminada cuando:
+
+Funciona correctamente.
+Fue probada sin errores.
+Quedó registrada en Git mediante un commit.

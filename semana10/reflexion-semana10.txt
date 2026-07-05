@@ -1,0 +1,6 @@
+Considero que las metodologías ágiles ayudan a organizar mejor el trabajo porque permiten dividir las tareas en partes pequeñas y priorizar lo más importante. 
+Además, trabajar por iteraciones facilita corregir errores y mejorar continuamente el proyecto. 
+Herramientas como Telegram permiten mantener una comunicación rápida entre los integrantes del equipo. 
+Por su parte, n8n ayuda a automatizar tareas repetitivas, como el envío de notificaciones, ahorrando tiempo. 
+Sin embargo, estas herramientas deben utilizarse de manera responsable para proteger la información de los usuarios y evitar errores. 
+De esta forma, se fortalece la organización, la transparencia y la participación de la comunidad.
