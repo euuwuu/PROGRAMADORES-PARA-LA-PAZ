@@ -1,0 +1,4 @@
+El login permite identificar a un usuario antes de acceder a las funciones de la plataforma. 
+Algunas rutas deben estar protegidas para evitar que personas no autorizadas modifiquen información o accedan a datos privados. 
+También es importante proteger la información sensible, como contraseñas, documentos de identidad, teléfonos, direcciones, claves y tokens. 
+De esta manera se garantiza la privacidad y la seguridad de los usuarios.
