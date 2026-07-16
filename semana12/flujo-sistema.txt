@@ -1,0 +1,6 @@
+  GNU nano 9.0                               flujo-sistema.txt
+Un ciudadano crea una causa.
+La causa queda registrada en la base de datos.
+Otros ciudadanos apoyan la causa.
+El sistema cuenta los apoyos recibidos.
+El sistema genera un documento PDF con la petición.
